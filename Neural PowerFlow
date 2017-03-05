@@ -1,0 +1,2 @@
+This folder contain info about a tensorflow backprop neural net for solve the problem of power flows in any electrical power grid.
+We are currently creating a new verstion of it using Recurrent Neural Nets for improve this original 85% or accuracy.
