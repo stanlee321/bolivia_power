@@ -10,3 +10,6 @@ The to_csv.py code makes the above mencioned, clean the metadata from OpenSteetM
 The last file SIN_BOLIVIA.py is a bunch of metadata that left to clean and treat, but with the help of some friend that provied me with some aditional SIN data and my original data extracted from OSM, I plot the whole "Bolivian Interconected System" in a 3D fashion with the help of OpenGraphiti as you can see in this youtube video. 
 
 https://www.youtube.com/watch?v=3qg-eD3dXrk
+
+![alt tag] (https://github.com/stanlee321/bolivia_power/blob/master/neural.png)
+This last image shows the traning of the neural backprop program for powerflow calculation.
